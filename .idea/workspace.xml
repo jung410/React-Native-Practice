@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="822d543c-c024-43a6-b7a9-c00e40660531" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.buckconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.flowconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.watchmanconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__tests__/App-test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/BUCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/build_defs.bzl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/debug.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/debug/java/com/test/ReactNativeFlipper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/java/com/test/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/java/com/test/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Heading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/test-tvOS/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/test-tvOSTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/test.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/test.xcodeproj/xcshareddata/xcschemes/test-tvOS.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/test.xcodeproj/xcshareddata/xcschemes/test.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/test/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/test/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/test/Base.lproj/LaunchScreen.xib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/test/Images.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/test/Images.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/test/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/test/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/testTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/testTests/testTests.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metro.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1cuHDJR5a58BdfhAlyzeppzRxgV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\react-native\test\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="822d543c-c024-43a6-b7a9-c00e40660531" name="Default Changelist" comment="" />
+      <created>1591371436756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591371436756</updated>
+      <workItem from="1591371439122" duration="886000" />
+      <workItem from="1591372337658" duration="2067000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2053" y="-29" key="#ESLint" timestamp="1591371499097">
+      <screen x="1920" y="-652" width="1080" height="1920" />
+    </state>
+    <state x="2053" y="-29" key="#ESLint/0.24.1920.1056/1920.-652.1080.1920/-1920.0.1920.1080@1920.-652.1080.1920" timestamp="1591371499097" />
+    <state x="2240" y="49" key="FileChooserDialogImpl" timestamp="1591374707911">
+      <screen x="1920" y="-652" width="1080" height="1920" />
+    </state>
+    <state x="2240" y="49" key="FileChooserDialogImpl/0.24.1920.1056/1920.-652.1080.1920/-1920.0.1920.1080@1920.-652.1080.1920" timestamp="1591374707911" />
+    <state x="2285" y="215" width="373" height="186" key="Github.CreateGistDialog" timestamp="1591374640193">
+      <screen x="1920" y="-652" width="1080" height="1920" />
+    </state>
+    <state x="2285" y="215" width="373" height="186" key="Github.CreateGistDialog/0.24.1920.1056/1920.-652.1080.1920/-1920.0.1920.1080@1920.-652.1080.1920" timestamp="1591374640193" />
+    <state x="1962" y="-46" key="SettingsEditor" timestamp="1591372469043">
+      <screen x="1920" y="-652" width="1080" height="1920" />
+    </state>
+    <state x="1962" y="-46" key="SettingsEditor/0.24.1920.1056/1920.-652.1080.1920/-1920.0.1920.1080@1920.-652.1080.1920" timestamp="1591372469043" />
+  </component>
+</project>
